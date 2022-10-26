@@ -8,6 +8,7 @@ cin>>a;
 cout<<"enter the value of b : ";
 cin>>b;
 c=a+b;
+cout<<"loading....\n";
 cout<<c;
 return 0;
 }
